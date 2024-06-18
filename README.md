@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Singh</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Science</h3>
 
 - 👨‍💻 All of my projects are available at [https://ssnfs26.wixsite.com/shivang-singh](https://ssnfs26.wixsite.com/shivang-singh)
 
