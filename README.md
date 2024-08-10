@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Shivang Singh</h1>
-<h3 align="center">Data Science</h3>
+<h3 align="center">Data Scientist</h3>
 
-<!-- - 👨‍💻 All of my projects are available at [https://ssnfs26.wixsite.com/shivang-singh](https://ssnfs26.wixsite.com/shivang-singh) -->
+- 🔭 I’m currently working on **Federated ML**
 
+- 🌱 I’m currently learning **Generative AI and Vision Transformers.**
 
+- 👯 I’m looking to collaborate on **Generative AI**
+
+- 👨‍💻 All of my projects are available at [https://ssnfs26.wixsite.com/shivang-singh](https://ssnfs26.wixsite.com/shivang-singh)
+
+- 💬 Ask me about **Python,SQL,EDA,Stats,ML,DL,CV,FedML,GenAI**
 
 - 📫 How to reach me **ssnfs26@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OPL9C6DLqJBZ8KqO0xNe53HIlmdrL077/view?usp=sharing](https://drive.google.com/file/d/1OPL9C6DLqJBZ8KqO0xNe53HIlmdrL077/view?usp=sharing)
+
+- ⚡ Fun Fact **I am good at Table Tennis like really good.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivang-singh-980669239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivang-singh-980669239/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/ssinvincible" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ssinvincible" height="30" width="40" /></a>
+<a href="https://instagram.com/__shivang.singh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shivang.singh__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
