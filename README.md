@@ -1,14 +1,14 @@
 # 💫 About Me:
 🌟 Hi there! 👋 I'm **Shivang**, a caffeine-powered 🚀**Data Scientist at Lincode Vision Systems Pvt Ltd** and a  Computer Science undergrad at IIIT SriCity, blending code, curiosity, and a dash of chaos.
 
-- **ML Sorcerer ✨**: Train transformers (DETR/YOLOv8), build RAG chatbots on AWS, and predict IPL match winners 🏏.  
+- **ML Sorcerer ✨**: Train DL Models, build RAG chatbots on AWS, and predict IPL match winners with precision 🏏.  
 - **Cloud Whisperer ☁️**: Deploy apps on AWS (ECR + App Runner) and Docker-ize everything.  
 - **Data Alchemist 🧪**: Turn raw data into ML gold (XGBoost, CNN, DETR, Transformers).  
 - **Open-Source Rebel 🤖**: Check out my [RAG chatbot](https://github.com/shivangsingh26/RagDeployment) and [IPL predictor](https://github.com/shivangsingh26/IPL-WIN-PREDICTOR).  
 - **Side Quests 🎮**: Co-lead of Matrix Club, Table Tennis Champ 🏓, and pizza hypothesis tester 🍕.  
 
 - 🔭 **Currently**: Building End to End ML Solutions at Lincode. 
-- 🌱 **Learning**: Generative AI, Agentic AI, ML System Design
+- 🌱 **Learning**: Generative AI, Agentic AI, ML System Design.
 - 📫 **Let's connect**: [Email](mailto:ssnfs26@gmail.com) | [LinkedIn](https://linkedin.com/in/shivangsingh26) | [GitHub](https://github.com/shivangsingh26).  
 
 ---
