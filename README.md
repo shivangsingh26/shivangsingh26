@@ -56,14 +56,14 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivangsingh26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivangsingh26&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsingh26&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ### ✍️ Favorite Quote
-> "The best way to predict the future is to invent it." – Alan Kay
+> "In God we trust. All others must bring data." 
+– W. Edwards Deming
 
 ---
 
