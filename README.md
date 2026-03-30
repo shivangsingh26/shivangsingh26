@@ -1,152 +1,223 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1f33,100:0d3b66&height=220&section=header&text=Shivang%20Singh&fontColor=e6edf3&fontSize=64&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%40%20Publicis%20Sapient&descSize=20&descColor=79c0ff&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:203a43,100:2c5364&height=250&section=header&text=Shivang%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%40%20Publicis%20Sapient&descSize=18&descColor=a8dadc&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shivangsingh26"><img src="https://img.shields.io/badge/LinkedIn-shivangsingh26-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&ensp;
-<a href="mailto:ssnfs26@gmail.com"><img src="https://img.shields.io/badge/Gmail-ssnfs26-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-&ensp;
-<img src="https://komarev.com/ghpvc/?username=shivangsingh26&style=flat-square&color=21262d&label=visitors&abbreviated=true" />
+<a href="https://linkedin.com/in/shivangsingh26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:ssnfs26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://github.com/shivangsingh26"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=shivangsingh26&style=flat&color=2c5364&label=visitors" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1200&color=79C0FF&center=true&vCenter=true&width=640&lines=AI+Engineer+%E2%80%94+Multimodal+%C2%B7+LLMs+%C2%B7+Computer+Vision;Shipping+AI+from+prototype+to+production;FastAPI+%C2%B7+Kubernetes+%C2%B7+LangChain+%C2%B7+PyTorch;IIIT+SriCity+%E2%80%A2+B.Tech+CSE+%E2%80%A2+CGPA+8.09" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1500&color=A8DADC&center=true&vCenter=true&width=520&lines=Multimodal+AI+%C2%B7+LLM+Systems+%C2%B7+Computer+Vision;Building+production+ML+at+scale;FastAPI+%C2%B7+Kubernetes+%C2%B7+PyTorch+%C2%B7+LangChain" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2c5364,100:0d1117&height=1.5" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+
+<table>
+<tr><td>
+
+I build AI systems that go from research to production — not just notebooks.
+
+At **Publicis Sapient**, I designed *Bodhi-Atomize*, a multimodal AI pipeline that decomposes ad creatives (images, video, GIFs) into structured JSON using **Gemini 2.5 Pro**, **YOLO**, and **PaddleOCR**. What used to take hours now runs in **~1.5 minutes** — achieving **84.5% consistency** and **89% correctness** evaluated with DeepEval.
+
+Previously at **Lincode Vision Labs**, I shipped CV models to production — **RF-DETR** at **1.8x faster** inference than YOLOv8, and defect detection from **55% → 82% mAP** through synthetic data and multi-stage training.
+
+My research: **FedFV-CV** — a federated learning framework for finger vein biometrics achieving **1.21% EER** and **98.48% TAR**, outperforming standard benchmarks across 122,600 images.
+
+</td><td width="340">
+
+```yaml
+# shivang.yml
+
+role: AI Engineer
+company: Publicis Sapient
+location: Bengaluru, India
+education:
+  degree: B.Tech CSE
+  school: IIIT SriCity
+  gpa: 8.09
+
+building:
+  - Multimodal LLM pipelines
+  - Structured output systems
+  - Production ML on Kubernetes
+
+exploring:
+  - Agentic AI & LangGraph
+  - Federated Learning
+  - ML System Design
+```
+
+</td></tr>
+</table>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2c5364,100:0d1117&height=1.5" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Tech%20Stack&fontSize=30&fontColor=a8dadc&animation=twinkling&fontAlignY=55" />
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,flask&theme=dark" /><br />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws,azure,git&theme=dark" /><br />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,github,linux,vscode&theme=dark" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/LangChain-1a1b26?style=flat&logo=chainlink&logoColor=375BD2" />&nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-1a1b26?style=flat&logo=meta&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1a1b26?style=flat&logo=graphql&logoColor=E10098" />&nbsp;
+<img src="https://img.shields.io/badge/CrewAI-1a1b26?style=flat&logo=openai&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Pydantic-1a1b26?style=flat&logo=pydantic&logoColor=E92063" />&nbsp;
+<img src="https://img.shields.io/badge/Celery-1a1b26?style=flat&logo=celery&logoColor=37814A" />&nbsp;
+<img src="https://img.shields.io/badge/FAISS-1a1b26?style=flat&logo=meta&logoColor=0081FB" />&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-1a1b26?style=flat&logo=databricks&logoColor=FF3621" />
 
 </div>
 
 <br />
 
----
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=shivangsingh26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&text_color=8b949e&ring_color=79c0ff&include_all_commits=true&count_private=true" />
-
-### About me
-
-I build AI systems end to end — from research to production Kubernetes deployments.
-
-At **Publicis Sapient** I ship multimodal LLM pipelines that decompose ad creatives at scale. Before that, at **Lincode Vision Labs**, I pushed computer vision models from 55% to 82% mAP in production.
-
-**Currently working on:**
-- Multimodal AI with structured outputs (Gemini 2.5 Pro)
-- Agentic workflows — LangGraph, CrewAI
-- ML system design at scale
-
-**By the numbers:**
-- `84.5%` consistency · `89%` correctness on ad decomposition
-- `1.8×` faster inference with RF-DETR over YOLOv8
-- `1.21%` EER in federated biometric auth research
-- `50+` daily queries served by Slack AI agent
-
-<br clear="right" />
-
----
-
-### Tech
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,kubernetes&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=redis,aws,azure,mongodb,git,github&theme=dark" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2c5364,100:0d1117&height=1.5" width="100%" />
 
 <br />
 
+<!-- ═══════════════════════════ FEATURED WORK ═══════════════════════════ -->
+
 <div align="center">
-
-| Domain | Tools |
-|--------|-------|
-| **LLMs & GenAI** | LangChain · LlamaIndex · LangGraph · CrewAI · Pydantic |
-| **Computer Vision** | YOLO · RF-DETR · PaddleOCR · OpenCV · MobileNet |
-| **MLOps** | Celery · KEDA · CI/CD · DeepEval · Docker · Kubernetes |
-| **Data** | FAISS · ChromaDB · MySQL · Pandas · NumPy |
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Featured%20Work&fontSize=30&fontColor=a8dadc&animation=twinkling&fontAlignY=55" />
 </div>
-
----
-
-### Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Bodhi-Atomize &nbsp;`Publicis Sapient`
-Multimodal AI pipeline decomposing image, video & GIF ad creatives into structured JSON for competitive marketing intelligence.
+#### &ensp; Bodhi-Atomize &ensp; <sup>`Publicis Sapient`</sup>
+
+Multimodal AI system decomposing image, video & GIF ad creatives into structured JSON for competitive marketing intelligence.
 
 ```
-Stack  →  Gemini 2.5 Pro · YOLO · PaddleOCR
-Infra  →  FastAPI · Redis · Celery · K8s/KEDA
-Result →  Hours → ~1.5 min (video) · 84.5% consistency
+Gemini 2.5 Pro · YOLO · PaddleOCR
+FastAPI · Redis · Celery · K8s + KEDA
+DeepEval · Pydantic structured outputs
 ```
+
+`84.5% consistency` &middot; `89% correctness` &middot; `Hours → ~1.5 min`
+
 </td>
 <td width="50%" valign="top">
 
-#### [FedFV-CV](https://github.com/shivangsingh26/FL-BC-BTP) &nbsp;`Research`
-Federated deep learning framework for finger vein biometric authentication — privacy-preserving across distributed clients.
+#### &ensp; [FedFV-CV](https://github.com/shivangsingh26/FL-BC-BTP) &ensp; <sup>`Research`</sup>
+
+Federated deep learning for finger vein biometric auth — privacy-preserving with custom FedWPR aggregation.
 
 ```
-Stack  →  MobileNetV2 · FedWPR (custom algo)
-Data   →  122,600 images · 5 federated clients
-Result →  1.21% EER · 98.48% TAR@FAR=0.01
+MobileNetV2 · Custom FedWPR algorithm
+122,600 images · 5 federated clients
+Random sampling · non-IID distribution
 ```
+
+`1.21% EER` &middot; `98.48% TAR@FAR=0.01` &middot; `Outperforms SoTA`
+
+<img src="https://img.shields.io/github/stars/shivangsingh26/FL-BC-BTP?style=flat&color=2c5364&labelColor=0d1117&logo=github&logoColor=8b949e" />
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [slackAgent](https://github.com/shivangsingh26/slackAgent) &nbsp;`Open Source`
-AI-powered Slack bot with semantic search over internal docs — event-driven, production-ready.
+#### &ensp; [slackAgent](https://github.com/shivangsingh26/slackAgent) &ensp; <sup>`Open Source`</sup>
+
+AI-powered Slack bot with RAG semantic search over internal docs. Event-driven, real-time query processing.
 
 ```
-Stack  →  LlamaIndex · ChromaDB · OpenAI
-Infra  →  FastAPI · n8n · Slack API
-Result →  40% faster queries · 50+ daily users
+LlamaIndex · ChromaDB · OpenAI embeddings
+FastAPI · n8n automation · Slack API
+Channels + DMs · Event-driven architecture
 ```
+
+`20+ docs indexed` &middot; `40% faster queries` &middot; `50+ daily queries`
+
+<img src="https://img.shields.io/github/stars/shivangsingh26/slackAgent?style=flat&color=2c5364&labelColor=0d1117&logo=github&logoColor=8b949e" />
+
 </td>
 <td width="50%" valign="top">
 
-#### [RAG Deployment](https://github.com/shivangsingh26/RagDeployment) &nbsp;`Open Source`
-End-to-end RAG chatbot with production deployment on AWS — fully containerized with CI/CD.
+#### &ensp; [RAG Deployment](https://github.com/shivangsingh26/RagDeployment) &ensp; <sup>`Open Source`</sup>
+
+End-to-end RAG chatbot deployed on AWS — fully containerized with automated CI/CD pipelines.
 
 ```
-Stack  →  LangChain · FAISS · FastAPI
-Infra  →  Docker · AWS ECR · App Runner
+LangChain · FAISS · FastAPI
+Docker · AWS ECR · App Runner
+GitHub Actions CI/CD pipeline
 ```
+
+`Production deployment` &middot; `Fully automated CI/CD`
+
+<img src="https://img.shields.io/github/stars/shivangsingh26/RagDeployment?style=flat&color=2c5364&labelColor=0d1117&logo=github&logoColor=8b949e" />
+
 </td>
 </tr>
 </table>
 
----
+<br />
 
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivangsingh26&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangsingh26&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=79c0ff&point=e6edf3&area=true&area_color=79c0ff" width="98%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2c5364,100:0d1117&height=1.5" width="100%" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsingh26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&langs_count=6" />
-
-</div>
-
----
+<!-- ═══════════════════════════ ACTIVITY ═══════════════════════════ -->
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivangsingh26&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6" />
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Activity&fontSize=30&fontColor=a8dadc&animation=twinkling&fontAlignY=55" />
 </div>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangsingh26&theme=github-compact&hide_border=true&bg_color=0d1117&color=a8dadc&line=2c5364&point=a8dadc&area=true&area_color=0f2027" width="98%" />
+</p>
 
-<div align="center">
-<sub><i>"In God we trust. All others must bring data."</i> &nbsp;—&nbsp; W. Edwards Deming</sub>
-</div>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b66,60:0d1f33,100:0d1117&height=80&section=footer" width="100%" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangsingh26&theme=github_dark" width="98%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivangsingh26&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivangsingh26&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivangsingh26&theme=github_dark&utcOffset=5.5" width="32%" />
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2c5364,100:0d1117&height=1.5" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════ QUOTE & FOOTER ═══════════════════════════ -->
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=In+God+we+trust.+All+others+must+bring+data.&author=W.+Edwards+Deming" width="520" />
+</p>
+
+<br />
+
+<p align="center">
+<a href="https://linkedin.com/in/shivangsingh26"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:ssnfs26@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,30:203a43,60:0f2027,100:0d1117&height=100&section=footer" width="100%" />
