@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1117,60:161b22,100:1c2128&height=220&section=header&text=Shivang%20Singh&fontColor=e6edf3&fontSize=68&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%40%20Publicis%20Sapient&descSize=20&descColor=79c0ff&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1f33,100:0d3b66&height=220&section=header&text=Shivang%20Singh&fontColor=e6edf3&fontSize=64&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%40%20Publicis%20Sapient&descSize=20&descColor=79c0ff&descAlignY=68" width="100%" />
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Infra  →  Docker · AWS ECR · App Runner
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangsingh26&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+<img src="https://streak-stats.demolab.com?user=shivangsingh26&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 
 <br /><br />
 
@@ -149,4 +149,4 @@ Infra  →  Docker · AWS ECR · App Runner
 <sub><i>"In God we trust. All others must bring data."</i> &nbsp;—&nbsp; W. Edwards Deming</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2128,50:161b22,100:0d1117&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b66,60:0d1f33,100:0d1117&height=80&section=footer" width="100%" />
