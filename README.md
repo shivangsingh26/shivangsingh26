@@ -1,72 +1,152 @@
-# 💫 About Me:
-🌟 Hi there! 👋 I'm **Shivang**, a caffeine-powered 🚀**Data Scientist at Lincode Vision Systems Pvt Ltd** and a  Computer Science undergrad at IIIT SriCity, blending code, curiosity, and a dash of chaos.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1117,60:161b22,100:1c2128&height=220&section=header&text=Shivang%20Singh&fontColor=e6edf3&fontSize=68&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%40%20Publicis%20Sapient&descSize=20&descColor=79c0ff&descAlignY=75" width="100%" />
 
-- **ML Sorcerer ✨**: Train DL Models, build RAG chatbots on AWS, and predict IPL match winners with precision 🏏.  
-- **Cloud Whisperer ☁️**: Deploy apps on AWS (ECR + App Runner) and Docker-ize everything.  
-- **Data Alchemist 🧪**: Turn raw data into ML gold (XGBoost, CNN, DETR, Transformers).  
-- **Open-Source Rebel 🤖**: Check out my [RAG chatbot](https://github.com/shivangsingh26/RagDeployment) and [IPL predictor](https://github.com/shivangsingh26/IPL-WIN-PREDICTOR).  
-- **Side Quests 🎮**: Co-lead of Matrix Club, Table Tennis Champ 🏓, and pizza hypothesis tester 🍕.  
+<div align="center">
 
-- 🔭 **Currently**: Building End to End ML Solutions at Lincode. 
-- 🌱 **Learning**: Generative AI, Agentic AI, ML System Design.
-- 📫 **Let's connect**: [Email](mailto:ssnfs26@gmail.com) | [LinkedIn](https://linkedin.com/in/shivangsingh26) | [GitHub](https://github.com/shivangsingh26).  
+<a href="https://linkedin.com/in/shivangsingh26"><img src="https://img.shields.io/badge/LinkedIn-shivangsingh26-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&ensp;
+<a href="mailto:ssnfs26@gmail.com"><img src="https://img.shields.io/badge/Gmail-ssnfs26-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+&ensp;
+<img src="https://komarev.com/ghpvc/?username=shivangsingh26&style=flat-square&color=21262d&label=visitors&abbreviated=true" />
 
----
+<br /><br />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangsingh26) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivangsingh26)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssnfs26@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivang.singh__) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1200&color=79C0FF&center=true&vCenter=true&width=640&lines=AI+Engineer+%E2%80%94+Multimodal+%C2%B7+LLMs+%C2%B7+Computer+Vision;Shipping+AI+from+prototype+to+production;FastAPI+%C2%B7+Kubernetes+%C2%B7+LangChain+%C2%B7+PyTorch;IIIT+SriCity+%E2%80%A2+B.Tech+CSE+%E2%80%A2+CGPA+8.09" />
+
+</div>
+
+<br />
 
 ---
 
-# 💻 Tech Stack:
-### 🛠️ Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=shivangsingh26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&text_color=8b949e&ring_color=79c0ff&include_all_commits=true&count_private=true" />
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+### About me
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+I build AI systems end to end — from research to production Kubernetes deployments.
 
-### 🧠 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+At **Publicis Sapient** I ship multimodal LLM pipelines that decompose ad creatives at scale. Before that, at **Lincode Vision Labs**, I pushed computer vision models from 55% to 82% mAP in production.
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+**Currently working on:**
+- Multimodal AI with structured outputs (Gemini 2.5 Pro)
+- Agentic workflows — LangGraph, CrewAI
+- ML system design at scale
+
+**By the numbers:**
+- `84.5%` consistency · `89%` correctness on ad decomposition
+- `1.8×` faster inference with RF-DETR over YOLOv8
+- `1.21%` EER in federated biometric auth research
+- `50+` daily queries served by Slack AI agent
+
+<br clear="right" />
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivangsingh26&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsingh26&theme=dark&hide_border=false&layout=compact)
+### Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,kubernetes&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=redis,aws,azure,mongodb,git,github&theme=dark" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+| Domain | Tools |
+|--------|-------|
+| **LLMs & GenAI** | LangChain · LlamaIndex · LangGraph · CrewAI · Pydantic |
+| **Computer Vision** | YOLO · RF-DETR · PaddleOCR · OpenCV · MobileNet |
+| **MLOps** | Celery · KEDA · CI/CD · DeepEval · Docker · Kubernetes |
+| **Data** | FAISS · ChromaDB · MySQL · Pandas · NumPy |
+
+</div>
 
 ---
 
-### ✍️ Favorite Quote
-> "In God we trust. All others must bring data." 
-– W. Edwards Deming
+### Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Bodhi-Atomize &nbsp;`Publicis Sapient`
+Multimodal AI pipeline decomposing image, video & GIF ad creatives into structured JSON for competitive marketing intelligence.
+
+```
+Stack  →  Gemini 2.5 Pro · YOLO · PaddleOCR
+Infra  →  FastAPI · Redis · Celery · K8s/KEDA
+Result →  Hours → ~1.5 min (video) · 84.5% consistency
+```
+</td>
+<td width="50%" valign="top">
+
+#### [FedFV-CV](https://github.com/shivangsingh26/FL-BC-BTP) &nbsp;`Research`
+Federated deep learning framework for finger vein biometric authentication — privacy-preserving across distributed clients.
+
+```
+Stack  →  MobileNetV2 · FedWPR (custom algo)
+Data   →  122,600 images · 5 federated clients
+Result →  1.21% EER · 98.48% TAR@FAR=0.01
+```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [slackAgent](https://github.com/shivangsingh26/slackAgent) &nbsp;`Open Source`
+AI-powered Slack bot with semantic search over internal docs — event-driven, production-ready.
+
+```
+Stack  →  LlamaIndex · ChromaDB · OpenAI
+Infra  →  FastAPI · n8n · Slack API
+Result →  40% faster queries · 50+ daily users
+```
+</td>
+<td width="50%" valign="top">
+
+#### [RAG Deployment](https://github.com/shivangsingh26/RagDeployment) &nbsp;`Open Source`
+End-to-end RAG chatbot with production deployment on AWS — fully containerized with CI/CD.
+
+```
+Stack  →  LangChain · FAISS · FastAPI
+Infra  →  Docker · AWS ECR · App Runner
+```
+</td>
+</tr>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shivangsingh26&icon=5&color=0)](https://visitcount.itsvg.in)
+### GitHub Activity
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangsingh26&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangsingh26&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=79c0ff&point=e6edf3&area=true&area_color=79c0ff" width="98%" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsingh26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivangsingh26&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6" />
+
+</div>
+
+---
+
+<div align="center">
+<sub><i>"In God we trust. All others must bring data."</i> &nbsp;—&nbsp; W. Edwards Deming</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2128,50:161b22,100:0d1117&height=80&section=footer" width="100%" />
